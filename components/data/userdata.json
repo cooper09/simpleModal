@@ -1,0 +1,24 @@
+[
+    {
+         "key": "abc",
+         "name": "john doe",
+         "timmestamp" : "12:00:00",
+         "size": "345",
+            "space": {
+                "reserved": "123",
+                "occupied": "5849",
+                "remaining": "89"
+            }
+     },
+     {
+         "key": "def",
+         "name": "jane doe",
+         "timmestamp" : "13:30:00",
+         "size": "988897",
+            "space": {
+                "reserved": "8797",
+                "occupied": "898098",
+                "remaining": "89789"
+            }
+     }
+ ] 
